@@ -9,7 +9,7 @@ Wealth allocation is a fundamental challenge in finance and economics, as it rev
 
 ## Problem Description
 
-The investor needs to allocate investments between two assets: a risk-free asset and a risky asset. The risky asset has two possible return rates: \( A \) and \( B \), with probabilities \( p \) and \( 1-p \), respectively. The risk-free asset has a constant return rate \( r \). The objective is to find the optimal investment strategy to maximize the expected utility of terminal wealth.
+The investor needs to allocate investments between two assets: a risk-free asset and a risky asset. The risky asset has two possible return rates: \( a \) and \( b \), with probabilities \( p \) and \( 1-p \), respectively. The risk-free asset has a constant return rate \( r \). The objective is to find the optimal investment strategy to maximize the expected utility of terminal wealth.
 
 ---
 
