@@ -2,7 +2,7 @@
 
 # Optimal Investment Strategy Solver
 
-This project uses a Deep Neural Network (DNN) model to approximate the Bellman equation and solve the optimal investment strategy problem. The goal is to maximize the expected utility of terminal wealth. The utility function is an exponential utility function, defined as \( U(W_T) = -\exp(-a \cdot W_T) / a \), where \( W_T \) is the terminal wealth and \( a \) is the risk aversion coefficient.
+This project uses a Deep Neural Network (DNN) model to approximate the Bellman equation and solve the optimal investment strategy problem. The goal is to maximize the expected utility of terminal wealth. The utility function is an exponential utility function.
 
 ---
 
