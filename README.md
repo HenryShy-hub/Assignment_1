@@ -72,7 +72,7 @@ The code is organized into the following files:
 ![Final Wealth Distribution](plots/wealth_distribution.png)
 
 4. **Trace 10's Optimal Strategy**  
-![Trace 10](plots/Trace10 Action&Wealth.png)
+![Trace 10](plots/Trace10Action&Wealth.png)
 
 ---
 
