@@ -58,25 +58,6 @@ The code is organized into the following files:
 
 ---
 
-## How to Run the Code
-
-1. **Install Dependencies**  
-   Ensure the required Python libraries are installed:
-   ```bash
-   pip install numpy matplotlib
-   ```
-
-2. **Run the Main Program**  
-   Execute the `main.py` script:
-   ```bash
-   python main.py
-   ```
-
-3. **View Results**  
-   The generated plots will be saved in the `plots` folder. You can open them to analyze the results.
-
----
-
 ## Contributors
 
 - **SHEN Hengyu**
