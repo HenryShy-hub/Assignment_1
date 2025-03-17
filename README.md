@@ -61,7 +61,18 @@ The code is organized into the following files:
 
 ## Outcomes
 
-![Q-value Convergence](plot/convergence_plot.png)
+1. **Q-value Convergence**  
+![Q-value Convergence](plots/convergence_plot.png)
+
+
+2. **Policy Change**  
+![Policy Change](plots/policy_plot.png)
+
+3. **Final Wealth Distribution**  
+![Final Wealth Distribution](plots/wealth_distribution.png)
+
+4. **Trace 10's Optimal Strategy**  
+![Trace 10](plots/Trace10 Action&Wealth.png)
 
 ---
 
