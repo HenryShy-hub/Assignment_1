@@ -1,8 +1,8 @@
 # MAFS5370-Assignment1
 
-# Optimal Investment Strategy Solver
+# Asset Allocation Based on Reinforcement Learning
 
-This project uses a Deep Neural Network (DNN) model to approximate the Bellman equation and solve the optimal investment strategy problem. The goal is to maximize the expected utility of terminal wealth. The utility function is an exponential utility function.
+Wealth allocation is a fundamental challenge in finance and economics, as it revolves around determining the optimal distribution of resources across various assets to maximize returns while minimizing risk. In this report, we employ reinforcement learning techniques to tackle the wealth allocation problem within the framework of a portfolio comprising a risky asset and a risk-free asset. By leveraging the principles of reinforcement learning, we aim to identify strategies that balance risk and reward effectively, ultimately optimizing the allocation of wealth to achieve superior financial outcomes.
 
 ---
 
