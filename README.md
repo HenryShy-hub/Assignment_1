@@ -61,7 +61,7 @@ The code is organized into the following files:
 
 ## Outcomes
 
-
+![Q-value Convergence](plot/convergence_plot.png)
 
 ---
 
